@@ -1,0 +1,9 @@
+ 名称,系统, IP地址,密码
+ k8s-node-3, centos7.6, 192.168.1.61,
+ k8s-node-2, centos7.6, 192.168.1.56,bbb
+ k8s-node-1, centos7.6, 192.168.1.52,ccc
+ k8s-master-3, centos7.6, 192.168.1.63,ddd
+ k8s-master-2, centos7.6, 192.168.1.60,eee
+ k8s-master-1, centos7.6, 192.168.1.57,fff
+ docker-harbor, centos7.6, 192.168.1.71,ggg
+ domain-dns, centos7.6, 192.168.1.53,hhh
